@@ -1,0 +1,5 @@
+homepage: "https://partnerize.com/en"
+documentation: "https://github.com/webmasterjunkie/partnerize-gtm-analytics-4/blob/master/README.md"
+versions:
+  - sha: cd29f1957ea88bec353437e1e95fa658c8692618
+    changeNotes: Initial release.
