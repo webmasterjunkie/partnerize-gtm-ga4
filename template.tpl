@@ -1,4 +1,4 @@
-﻿___TERMS_OF_SERVICE___
+___TERMS_OF_SERVICE___
 
 By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
@@ -14,6 +14,13 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Partnerize Analytics 4 eCommerce Tag",
+  "categories": [
+    "AFFILIATE_MARKETING",
+    "ADVERTISING",
+    "CONVERSIONS",
+    "MARKETING",
+    "SALES"
+  ],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
