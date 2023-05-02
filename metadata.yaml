@@ -1,5 +1,9 @@
 homepage: "https://partnerize.com/en"
 documentation: "https://github.com/webmasterjunkie/partnerize-gtm-analytics-4/blob/master/README.md"
 versions:
+  # Latest version
+  - sha: cd2d64fd94ffb05c132db249c631b3af8003d024
+    changeNotes: Add brand information.
+  # Older versions
   - sha: cd29f1957ea88bec353437e1e95fa658c8692618
     changeNotes: Initial release.
