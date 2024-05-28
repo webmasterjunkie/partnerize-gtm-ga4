@@ -2,9 +2,11 @@ homepage: "https://partnerize.com/en"
 documentation: "https://github.com/webmasterjunkie/partnerize-gtm-ga4/blob/master/README.md"
 versions:
   # Latest version
+  - sha: 277e5e9a40437b1bd89bfe0fd80687f7cf187478
+    changeNotes: Add additional metrics for reporting
+  # Older versions
   - sha: 51cb0f7d78a65dd2e20ac82b03704f6bf6364fbe
     changeNotes: Add TOS
-  # Older versions
   - sha: 510d05f5b6959293306084ebac31400aae9b9881
     changeNotes: Change Template Name
   - sha: 06c75cfb9bf35062bf9644c1a78a27d912d6ed2e
