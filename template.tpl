@@ -95,7 +95,7 @@ const localStorageID = 'partnerizeClickReference';
 const ecom = copyFromDataLayer('ecommerce');
 
 // Begin setup of the tracking pixel
-var url = 'https://prf.hn/conversion/campaign:' + encodeUriComponent(data.CampaignID) + '/';
+var url = 'https://prf.hn/conversion/tmethod:1/tplatform:4/tdetail:8/campaign:' + encodeUriComponent(data.CampaignID) + '/';
 
 url = handleClickrefVariable(url);
 
