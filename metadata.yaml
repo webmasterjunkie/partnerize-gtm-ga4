@@ -1,5 +1,5 @@
 homepage: "https://partnerize.com/en"
-documentation: "https://github.com/webmasterjunkie/partnerize-gtm-analytics-4/blob/master/README.md"
+documentation: "https://github.com/webmasterjunkie/partnerize-gtm-ga4/blob/master/README.md"
 versions:
   # Latest version
   - sha: 51cb0f7d78a65dd2e20ac82b03704f6bf6364fbe
