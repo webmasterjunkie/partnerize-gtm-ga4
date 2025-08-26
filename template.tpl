@@ -122,7 +122,6 @@ const sendPixel = require('sendPixel');
 const encodeUriComponent = require('encodeUriComponent');
 const copyFromDataLayer = require('copyFromDataLayer');
 const localStorage = require('localStorage');
-const queryPermission = require('queryPermission');
 const getCookieValues = require('getCookieValues');
 
 const localStorageID = 'partnerizeClickReference';
@@ -139,9 +138,7 @@ url = handleClickrefVariable(url);
 // Add the order id to the pixel
 if (ecom){
 	if (ecom.transaction_id){
-		if (ecom.transaction_id){
-			url = url + 'conversionref:' + encodeUriComponent(ecom.transaction_id) + '/';
-		}
+		url = url + 'conversionref:' + encodeUriComponent(ecom.transaction_id) + '/';
 	}
 }
 
